@@ -1,0 +1,79 @@
+.banner_post_1 img {
+height: 350px;
+width: 100%;
+}
+.banner_post .banner_post_1 .banner_post_iner {
+    padding: 45px;
+    
+    background-color: #fff;
+
+    margin: 0 auto;
+}
+.text-center {
+    text-align: center !important;
+}
+
+
+.banner_post h5 {
+    font-size: 15px;
+    color: #fc4600;
+    text-transform: capitalize;
+    font-family: "Lora", serif;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+.banner_post h2 {
+    font-size: 30px;
+    font-family: "Dancing Script", cursive;
+}
+
+
+.subscribe_form .subscribe_form_iner {
+    padding: 55px;
+    border: 8px solid #fbf2ee;
+}
+
+.margin_top {
+    margin-top: 40px;
+}
+.margin_btm {
+    margin-bottom: 40px;
+}
+
+.subscribe_form .form-control {
+    border: 1px solid #eee;
+    border-radius: 0;
+    height: 50px;
+    padding-left: 20px;
+    line-height: 32px;
+}
+.subscribe_form .btn_1 {
+    display: block;
+    text-align: center;
+}
+.btn_1 {
+    display: inline-block;
+    padding: 14.5px 58px;
+    font-size: 14px;
+    color: #fff;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    text-transform: capitalize;
+    background-color: #fc4600;
+    margin: 0 auto;
+}
+.subscribe_form h3 {
+    font-family: "Dancing Script", cursive;
+}
+.btn-hero {
+    font-family: var(--ff-primary);
+    text-transform: uppercase;
+    background: transparent;
+    color: var(--clr-black);
+   
+  }
+  .btn-hero:hover {
+    color: var(--clr-white);
+    background: var(--clr-black);
+  }
